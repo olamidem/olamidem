@@ -1,6 +1,4 @@
-### Hi there, I am Olamide M. Olagunju👋
-
-Hey and welcome! My name is Olamide M. Olagunju, 
+### Hi there and welcome, I am Olamide M. Olagunju👋
 
 I work as a data analyst in the public health sector. I'm fascinated by the power of data to find insights, spot patterns, and solve complex problems that influence business choices.
 
