@@ -1,8 +1,5 @@
 ### Hi there, I am Olamide M. Olagunju👋
 
-<!--
-**olamidem/olamidem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey and welcome! My name is Olamide M. Olagunju, 
 
 I work as a data analyst in the public health sector. I'm fascinated by the power of data to find insights, spot patterns, and solve complex problems that influence business choices.
@@ -17,8 +14,6 @@ Feel free to connect with me on LinkedIn https://www.linkedin.com/in/olagunju-ol
 
 Thanks for stopping by; I look forward to connecting with you!
 
-
 - 🔭 I’m currently working on some powerbi projects
 - 🌱 I’m currently learning Tableau
 - 👯  I’m looking to collaborate on data anlysis projects
--->
