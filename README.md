@@ -12,6 +12,4 @@ Feel free to connect with me on LinkedIn https://www.linkedin.com/in/olagunju-ol
 
 Thanks for stopping by; I look forward to connecting with you!
 
-- 🔭 I’m currently working on some powerbi projects
-- 🌱 I’m currently learning Tableau
-- 👯  I’m looking to collaborate on data anlysis projects
+- 🔭 I’m currently working on some larave project
